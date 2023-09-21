@@ -1,0 +1,29 @@
+Installation
+
+(1) Unzip the file. Then you will see the following FOLDER and file.
+  PolyPortamento.vst3	contains PolyPortamento plug-in.
+  example.mid		MIDI file used by demonstration video (for reference).
+  			Note: Don't use MIDI channel 1.
+
+(2) PolyPortamento.vst3 to C:\Program Files\Common Files\VST3
+
+Note: "PolyPortamento.vst3" is a FOLDER in the unzipped file.
+It is NOT "PolyPortamento.vst3\Contents\x86_64-win\PolyPortamento.vst3".
+
+Enjoy.
+
+
+インストール方法
+
+(1) ファイルを解凍すると，以下の「フォルダ」とファイルがある．
+  PolyPortamento.vst3	PolyPortamento プラグイン
+  example.mid		デモビデオで使用した MIDI ファイル (参考)
+  			Note: MIDI チャネル 1 は使用しない事．
+
+(2) PolyPortamento.vst3 を C:\Program Files\Common Files\VST3 にコピー
+
+Note: "PolyPortamento.vst3" は解凍したファイルにある「フォルダ」です．
+"PolyPortamento.vst3\Contents\x86_64-win\PolyPortamento.vst3" ではありません．
+
+Enjoy.
+
